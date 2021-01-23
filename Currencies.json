@@ -1,0 +1,14 @@
+[
+   {"code": "AED","name": "United Arab Emirates Dirham"},
+{"code": "ARS","name": "Argentine Peso"},
+{"code": "AUD","name": "Australian Dollar"},
+{"code": "BHD","name": "Bahraini Dinar"},
+{"code": "BTC","name": "Bitcoin"},
+{"code": "CAD","name": "Canadian Dollar"},
+{"code": "CHF","name": "Swiss Franc"},
+{"code": "CNY","name": "Chinese Yuan"},
+{"code": "EUR","name": "Euro"},
+{"code": "GBP","name": "British Pound Sterling"},
+{"code": "MAD","name": "Moroccan Dirham"},
+{"code": "USD","name": "United States Dollar"}
+    ]
